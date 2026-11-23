@@ -1,0 +1,1 @@
+"# ai-job-platform"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Malwandla21-ict/ai-job-platform.gitgit push -u origin main
